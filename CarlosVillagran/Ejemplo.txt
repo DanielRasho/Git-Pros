@@ -1,1 +1,4 @@
 Generando un nuevo archivo para el commit
+
+# cambios realizados en el primer commit de la rama 22264:
+Cambio 1, estoy realizando cambios para el primer commit
